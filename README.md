@@ -1,19 +1,19 @@
 <div id="top"></div>
 
 <div align="center">
-	<a href="https://passwordss.vercel.app">
+	<a href="https://pazzword.vercel.app">
 		<img src="./readme/header.webp" alt="Web preview" />
 	</a>
 
-  # 🔐 Passwordss 🔑
+  # 🔐 Pazzword 🔑
 
   Strong Password Generator – Create strong, random combinations to protect your online accounts. Keep your data safe with just one click!.
 
-  <a href="https://passwordss.vercel.app">View Demo</a>
+  <a href="https://pazzword.vercel.app">View Demo</a>
   ·
-  <a href="https://github.com/cosmoart/Passwordss/issues">Report Bug</a>
+  <a href="https://github.com/codeaashu/pazzword/issues">Report Bug</a>
   ·
-  <a href="https://github.com/cosmoart/Passwordss/issues">Request Feature</a>
+  <a href="https://github.com/codeaashu/pazzword/issues">Request Feature</a>
 
 </div>
 
@@ -86,11 +86,11 @@ Generate strong passwords with Passwordss. The passwords are generated locally i
 
 1. Clone or fork the repo
 ```sh
-git clone https://github.com/cosmoart/Passwordss
+git clone https://github.com/codeaashu/pazzword
 ```
 2. Go to the project folder
 ```sh
-cd Passwordss
+cd Pazzword
 ```
 3. Install NPM packages
 ```sh
@@ -107,13 +107,13 @@ npm run dev
 <!-- LICENSE -->
 ## License
 
-Distributed under the **MIT License**. See [`LICENSE`](https://github.com/cosmoart/Passwordss/blob/main/LICENCE) for more information.
+Distributed under the **MIT License**. See [`LICENSE`](https://github.com/codeaashu/Pazzword/blob/main/LICENCE) for more information.
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
 
 <!-- CONTACT -->
 ## Contact
-* My website - [https://cosmoart.vercel.app](https://cosmoart.vercel.app)
-* Twitter - [@CosmoArt0](https://twitter.com/cosmoart0)
+* My website - [https://www.ashutoshkumar.me/](https://www.ashutoshkumar.me)
+* Twitter - [@warrior_aashuu](https://x.com/warrior_aashuu)
 
 <p align="right"><a href="#top">⬆ Back to top</a></p>
