@@ -20,9 +20,9 @@
 </script>
 
 <svelte:head>
-	<title>Passwordss</title>
+	<title>PAZZWORD</title>
 	<!-- {/* Meta */} -->
-	<meta name="author" content="Cosmo" />
+	<meta name="author" content="Ashutosh Singh - codeaashu" />
 	<meta name="theme-color" content="#5a4ceb" />
 	<meta
 		name="description"
@@ -31,10 +31,10 @@
 	<meta name="robots" content="index, nofollow" />
 
 	<!-- {/* Open Graph */} -->
-	<meta property="og:title" content="Passwordss" />
+	<meta property="og:title" content="Pazzword" />
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="https://passwordss.vercel.app/preview.jpg" />
-	<meta property="og:url" content="https://passwordss.vercel.app" />
+	<meta property="og:image" content="https://pazzword.vercel.app/preview.jpg" />
+	<meta property="og:url" content="https://pazzword.vercel.app" />
 	<meta
 		property="og:description"
 		content="Strong Password Generator – Create strong, random combinations to protect your online accounts. Keep your data safe with just one click!"
@@ -44,12 +44,12 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:site" content="@Cosmoart" />
 	<meta name="twitter:creator" content="@Cosmoart" />
-	<meta name="twitter:title" content="Passwordss" />
+	<meta name="twitter:title" content="pazzword" />
 	<meta
 		name="twitter:description"
 		content="Strong Password Generator – Create strong, random combinations to protect your online accounts. Keep your data safe with just one click!"
 	/>
-	<meta name="twitter:image" content="https://passwordss.vercel.app/preview.jpg" />
+	<meta name="twitter:image" content="https://pazzword.vercel.app/preview.jpg" />
 </svelte:head>
 
 <div class="box">

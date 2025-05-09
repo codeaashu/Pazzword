@@ -12,7 +12,7 @@
 			<li>
 				<a
 					class="hover:scale-105 block transition-transform active:scale-95"
-					href="https://github.com/cosmoart/Passwordss"
+					href="https://github.com/codeaashu/Pazzword"
 					title="Github repo"
 					target="_blank"
 					rel="noopener noreferrer"
